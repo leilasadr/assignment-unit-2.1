@@ -35,7 +35,7 @@ pets +=2;
 console.log('My Pets:', pets);
 console.log("My friend's pets:", friendsPets);
 // 12 - Create a constant variable called `allowedPets` and set it to a number value of your choice
-let allowedPets = 3;
+const allowedPets = 3;
 console.log('Pets allowed:', allowedPets);
 // 13 - Create a conditional: if adventurous is true, console log "Adventures are great!", 
 // if it's not true, console log "How about we stay home?"
